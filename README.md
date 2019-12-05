@@ -3,7 +3,7 @@ Mission to Mars
 Flask web application that scrapes various websites for data related to the Mars Mission and displays the information in a single HTML page.
 
 Scrapping
-Scraped the [NASA website] and collected information needed.
+
 NASA Mars News
 
     Script collects the latest News Title and Paragraph Text.
