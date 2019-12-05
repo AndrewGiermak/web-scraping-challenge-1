@@ -5,20 +5,19 @@ Flask web application that scrapes various websites for data related to the Mars
 #### Scrapping
 
 ##### NASA Mars News
-
-                      - Script collects the latest News Title and Paragraph Text.
+          - Script collects the latest News Title and Paragraph Text.
 
 ##### JPL Mars Space Images - Featured Image
 
-    * Script finds the image url for the current Featured Mars Image and assigns the url string of the full size image.
+  * Script finds the image url for the current Featured Mars Image and assigns the url string of the full size image.
 
 ##### Mars Weather
 
-    * Script visits the Mars Weather twitter account and scrapes the latest Mars weather tweet.
+   * Script visits the Mars Weather twitter account and scrapes the latest Mars weather tweet.
 
 ##### Mars Facts
 
-    * Script visit the Mars Facts webpage and uses Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
+   * Script visit the Mars Facts webpage and uses Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 
 ##### Mars Hemispheres
 
