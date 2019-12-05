@@ -5,7 +5,7 @@ Flask web application that scrapes various websites for data related to the Mars
 #### Scrapping
 
 ##### NASA Mars News
-          - Script collects the latest News Title and Paragraph Text.
+          * Script collects the latest News Title and Paragraph Text.
 
 ##### JPL Mars Space Images - Featured Image
 
