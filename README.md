@@ -46,5 +46,5 @@ Alternatively, it can run locally. First, install MongoDB. Once MongoDB is insta
        * beautifulsoup4==4.6.3
        * bs4==0.0.1
        * Flask-PyMongo==2.1.0
- ![Test Image 4]()
+ ![Test Image 4](https://github.com/mserobabina/web-scraping-challenge/blob/master/Missions_to_Mars/screenshot_mars.png)
  
